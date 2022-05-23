@@ -1,7 +1,9 @@
+//your bot information
+
 {
     "prefix": "!",
-    "token": "OTEwMjgzMzA4MDI4NTU1MjY0.Gjeq6X.R7wRXFn88GbyA9fJmuc7X2kwhgMipcQem-BQ-w",
-    "channelId": 971488669074616343,
-    "guildId": 971488669074616340,
-    "clientId": 910283308028555264
+    "token": "Your token bot",
+    "channelId": your channel id,
+    "guildId": your guild id,
+    "clientId": your client id
 }
