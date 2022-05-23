@@ -1,0 +1,21 @@
+{
+  "name": "bot_sleeping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gustavo Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.0",
+    "mathjs": "^10.5.3"
+  }
+}
